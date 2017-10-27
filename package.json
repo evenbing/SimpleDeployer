@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/yourtion/SimpleDeployer#readme",
   "devDependencies": {
-    "eslint": "^4.7.2",
+    "eslint": "^4.10.0",
     "eslint-config-guo": "^0.6.0",
     "mocha": "^4.0.0",
     "request": "^2.82.0",
